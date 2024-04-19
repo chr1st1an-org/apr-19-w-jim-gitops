@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: apr-19-w-jim-gitops-repository
+spec:
+  url: https://github.com/chr1st1an-org/apr-19-w-jim-gitops
